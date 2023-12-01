@@ -1,2 +1,2 @@
 # pandas_notes
-Youtube videos' notes taking by me
+Youtube videos' notes taken by me
