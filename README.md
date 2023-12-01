@@ -1,2 +1,2 @@
 # pandas_notes
-Youtube videos' notes tanking by me
+Youtube videos' notes taking by me
